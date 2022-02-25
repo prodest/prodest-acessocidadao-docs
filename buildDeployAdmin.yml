@@ -1,0 +1,25 @@
+trigger:
+  branches:
+    include:  
+    - main
+  paths:
+    include:
+    - docs
+
+pool:
+  name: 'Default'
+
+resources:
+  repositories:
+  - repository: templates
+    type: git
+    name: DevopsTools/prodest-build-deploy-templates
+
+jobs:
+- template: buildDeployDocsV2.yml@templates
+  parameters:
+    environment: IISProducao
+    sistema: docs.cargarh
+    orgao: Prodest
+    docsPath: docs
+    hostnamesuffix: .es.gov.br
