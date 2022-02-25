@@ -4,7 +4,7 @@ trigger:
     - main
   paths:
     include:
-    - docs
+    - admin
 
 pool:
   name: 'Default'
@@ -19,7 +19,7 @@ jobs:
 - template: buildDeployDocsV2.yml@templates
   parameters:
     environment: IISProducao
-    sistema: docs.cargarh
+    sistema: docs.admin.acessocidadao
     orgao: Prodest
-    docsPath: docs
+    docsPath: admin
     hostnamesuffix: .es.gov.br
