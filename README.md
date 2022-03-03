@@ -1,20 +1,26 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introdução
+Esse projeto contém as documentações do Acesso Cidadão.
+No momento temos 3 diferentes:
+1. [Documentação pública - https://docs.acessocidadao.es.gov.br/](https://docs.acessocidadao.es.gov.br/)
+1. [Documentação para administradores - https://docs.admin.acessocidadao.es.gov.br/](https://docs.admin.acessocidadao.es.gov.br/)
+1. [Documentação para desenvolvedores - https://docs.dev.acessocidadao.es.gov.br/](https://docs.dev.acessocidadao.es.gov.br/)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Docusauros
+Todas elas foram feitas usando o Docusauros [[docs]](https://docusaurus.io/docs)
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Build e Test
+Para buildar o projeto precisamos entrar na pasta de documentação e rodar:
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+```bash
+npm run install
+```
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+```bash
+npm run start
+```
+
+O projeto vai começar a rodar localmente em [http://localhost:3000/](http://localhost:3000/)
+
+# Contribuindo
+
+Qualquer contribuição é bem vinda. Se quiser sugerir alguma correção, melhoria ou alteração favor mandar um pull request que prometemos avaliar o mais rápido possível.
