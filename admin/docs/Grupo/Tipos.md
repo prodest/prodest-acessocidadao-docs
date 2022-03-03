@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Tipos de Grupo
 
 ## 1 - Manuais

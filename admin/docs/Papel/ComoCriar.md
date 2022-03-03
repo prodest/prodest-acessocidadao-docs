@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Como Criar Um Papel
 
 É possível que agentes públicos com permissões específicas em um sistema possam criar novos papéis para outros agentes públicos (e nunca para si mesmos).  

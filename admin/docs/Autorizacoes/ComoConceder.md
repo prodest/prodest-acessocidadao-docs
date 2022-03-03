@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Como Conceder Autorizações
 
 1 - Acesse o gerenciador de permissões pelo link do menu lateral  
@@ -17,8 +21,8 @@ do agente público.
 !["Escolher agente público"](/_images/04_permissoes.png)
 &nbsp;  
 
-5 - Nesta nova tela, escolha a autorização (<span style="font-size: 14px"><em>conjunto **```Recurso + Perfil```**. Saiba mais 
-[clicando aqui](https://docs.admin.acessocidadao.es.gov.br/Autorizacoes/Index.html#permissoes-no-ac)</em></span>) e em seguida clique em salvar.
+5 - Nesta nova tela, escolha a autorização (conjunto **```Recurso + Perfil```**. Saiba mais 
+[clicando aqui](https://docs.admin.acessocidadao.es.gov.br/Autorizacoes/Index.html#permissoes-no-ac)) e em seguida clique em salvar.
 !["Selecionando permissão"](/_images/05_permissoes.png)  
 &nbsp;  
 

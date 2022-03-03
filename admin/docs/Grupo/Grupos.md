@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Grupos
 
 Grupos são unidades de organização onde cada papel encontra suas atribuições. Um grupo limita e discrimina a atuação do agente público imbuído de determinado papel.  
