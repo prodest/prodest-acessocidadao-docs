@@ -25,7 +25,7 @@ const config = {
                     routeBasePath: '/',
                     sidebarPath: require.resolve('./sidebars.js'),
                     showLastUpdateTime: true,
-                    editUrl: 'https://github.com/prodest/prodest-acessocidadao-docs/tree/main/docs/',
+                    editUrl: 'https://github.com/prodest/prodest-acessocidadao-docs/tree/main/admin/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
