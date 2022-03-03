@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Manutenções Programadas
 
 A melhoria dos nossos serviços é uma busca contínua dentro da equipe responsável pelo Acesso Cidadão. Para isso, é necessário um esforço permanente que abrange uma série de procedimentos de manutenção que algumas vezes podem gerar algum desconforto para nossos clientes, mas que a longo prazo são indispensáveis para mantermos o nosso compromisso com a qualidade do serviço prestado.

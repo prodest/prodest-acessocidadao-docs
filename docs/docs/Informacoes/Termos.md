@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Termos de Serviço
 Última modificação: 28 de junho de 2021
 
@@ -143,7 +147,4 @@ Caso uma condição específica destes termos não seja executável, isso não p
 
 Fica eleito o foro da comarca de Vitória / ES para dirimir eventuais controvérsias que venham a surgir da interpretação e do cumprimento do presente termo de serviço.
 
-&nbsp;  
-&nbsp;  
-
-[CLIQUE AQUI](../_arquivos/TermosServicos.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](/_arquivos/TermosServicos.pdf) Para obter o arquivo com essas instruções.

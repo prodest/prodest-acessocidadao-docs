@@ -1,3 +1,8 @@
+---
+slug: /
+sidebar_position: 1
+---
+
 # Sobre
 O **Acesso Cidadão** tem como objetivo facilitar a vida do cidadão que utiliza os serviços ou participa de programas do estado do Espírito Santo.
 

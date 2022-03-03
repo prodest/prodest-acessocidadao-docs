@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Problemas Com CPF  
 
 ## No Momento do Cadastro
@@ -25,7 +29,8 @@ Em seguida o usuário receberá um protocolo de atendimento com o e-mail para on
 para regularizar o CPF.  
 Essa solicitação via site da Receita Federal não tem custo.
 
-``` important:: Após os dados serem atualizados nas fontes oficiais as informações podem demorar até 7 dias úteis para serem detectadas pelo acesso cidadão.
-```
+:::info Importante
+Após os dados serem atualizados nas fontes oficiais as informações podem demorar até 7 dias úteis para serem detectadas pelo acesso cidadão.
+:::
 
-[CLIQUE AQUI](../_arquivos/ProblemasCPF.pdf) Para obter o arquivo com essas instruções.
+[CLIQUE AQUI](/_arquivos/ProblemasCPF.pdf) Para obter o arquivo com essas instruções.
