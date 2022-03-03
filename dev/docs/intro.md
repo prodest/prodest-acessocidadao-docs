@@ -22,14 +22,14 @@ Resumindo, o Acesso Cidadão implementa uma solução abrangente que proporciona
 Atualmente a solução chamada de Acesso Cidadão(AC) pode ser dividida em várias partes sendo a principal um servidor IdentityServer [https://identityserver.io/](https://identityserver.io/) integrado às bases do estado, fornecendo, portanto, OpenID Connect e Oauth2. Toda integração é feita usando esses protocolos e padrões amplamente utilizados em todo mundo o que permite a disponibilização das seguintes funcionalidades:
 
 **Autenticação como serviço:** 
-Lógica de login centralizada e workflow para todo tipo de aplicação (web, nativo, mobile e serviços). Isso inclui os serviços de Single sign-on (e sign-out). Leia mais [aqui](./AutenticacaoUsuarios/ComoGerarToken.md);
+Lógica de login centralizada e workflow para todo tipo de aplicação (web, nativo, mobile e serviços). Isso inclui os serviços de Single sign-on (e sign-out). Leia mais [aqui](/AutenticacaoUsuarios/ComoGerarToken.md);
 
 :::info Importante
  O Single sign-out está sendo reformulado e é esperado que esteja funcionando normalmente na nova versão
 :::
 
 **Controle de acesso para APIs:** 
-Geração de token de acesso para APIs em uma variedade de tipos de cliente. Leia mais [aqui](./AutorizacaoSistemas/ComoGerarToken.md);
+Geração de token de acesso para APIs em uma variedade de tipos de cliente. Leia mais [aqui](/AutorizacaoSistemas/ComoGerarToken.md);
 
 **Gateway de Federação:**
 Suporta federação de identidade a partir uma lista de provedores. Isso permite que sua aplicação seja integrada com outros provedores sem precisar se preocupar com os detalhes de integração de cada serviço.
@@ -37,8 +37,8 @@ Suporta federação de identidade a partir uma lista de provedores. Isso permite
 ## Outros serviços
 
 **Api do Acesso Cidadão:**
-Api do AC que fornce informações sobre os objetos gerenciados pelo próprio AC: pessoas, agentes públicos, papeis institucionais, sistemas e suas permissões, grupos, etc... Leia mais [aqui](./Api/ApiAcessoCidadao.md);
+Api do AC que fornce informações sobre os objetos gerenciados pelo próprio AC: pessoas, agentes públicos, papeis institucionais, sistemas e suas permissões, grupos, etc... Leia mais [aqui](/Api/ApiAcessoCidadao.md);
 
 **Autorização de usuários como serviço:**
-Lógica de autorização centralizada e sistema para conceder e remover permissões. Leia mais [aqui](./AutorizacaoUsuarios/AutorizacaoUsuarios.md);
+Lógica de autorização centralizada e sistema para conceder e remover permissões. Leia mais [aqui](/AutorizacaoUsuarios/Autorizacao.md);
 
