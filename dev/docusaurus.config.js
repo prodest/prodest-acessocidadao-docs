@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Acesso Cidadão',
-    tagline: 'Documentação do Acesso Cidadão',
+    title: 'Documentação Acesso Cidadão para desenvolvedores',
+    tagline: 'Documentação do Acesso Cidadão para desenvolvedores',
     url: 'https://docs.acessocidadao.es.gov.br',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -24,7 +24,8 @@ const config = {
                 docs: {
                     routeBasePath: '/',
                     sidebarPath: require.resolve('./sidebars.js'),
-                    showLastUpdateTime: true
+                    showLastUpdateTime: true,
+                    editUrl: 'https://github.com/prodest/prodest-acessocidadao-docs/tree/main/dev/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -37,28 +38,28 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: 'Acesso Cidadão',
+                title: 'Documentação Acesso Cidadão para desenvolvedores',
                 logo: {
                     alt: 'Logo ES',
                     src: 'img/logo.png',
                 },
                 items: [
-
+                    {
+                        href: 'https://github.com/prodest/prodest-acessocidadao-docs',
+                        label: 'GitHub',
+                        position: 'right',
+                    },
                 ],
             },
             footer: {
                 style: 'dark',
                 links: [
                     {
-                        label: 'Swagger API',
-                        href: 'https://api.cargarh.es.gov.br/',
-                    },
-                    {
-                        label: 'Docs Acesso Cidadão',
-                        href: 'https://docs.developer.acessocidadao.es.gov.br/',
+                        label: 'Swagger API Acesso Cidadão',
+                        href: 'https://api.acessocidadao.es.gov.br/',
                     },
                 ],
-                copyright: `© Copyright ${new Date().getFullYear()}. Desenvolvido pelo PRODEST. Utilizando o software Docusaurus.`,
+                copyright: `© Copyright 2015 - ${new Date().getFullYear()}. Desenvolvido pelo PRODEST. Utilizando o software Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
